@@ -208,6 +208,11 @@ li.nav-item {
     margin-bottom: 35px;
     margin-top: 60px;
 }
+img.logo_display:hover {
+    background: #fff;
+    transform: rotateY(360deg);
+    transition: all 1s ease-in-out;
+}
 img.logo_display {
     background: #fff;
     padding: 0 10px 0 10px;
